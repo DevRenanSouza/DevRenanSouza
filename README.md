@@ -3,4 +3,4 @@ Olá! Eu sou Renan Souza! Bem-vindo ao meu GitHub!👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.instagram.com/devrenansouza?igsh=MTBnZnlyeXByaXRzZg==](https://www.linkedin.com/in/renan-carlos-0556871a8/))
 
 
-![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRenanSouza&show_icons=true&theme=radical)
+![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRenanSouza&show_icons=true&theme=transparent)
