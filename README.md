@@ -16,3 +16,4 @@
 ![Phyton](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+Desenvolvedor júnior apaixonado por tecnologia🌐 e jogos🎮. Bem-vindo ao meu GitHub!
