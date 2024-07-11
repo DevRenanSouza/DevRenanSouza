@@ -6,8 +6,10 @@
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRenanSouza&show_icons=true&theme=transparent)
 
 ###Tecnologias que estou me aperfeiçoando:
-	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
- 	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-  https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
+<div>
+https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
+</div>
