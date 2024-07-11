@@ -1,4 +1,4 @@
-###Olá! Eu sou Renan Souza! Bem-vindo ao meu GitHub!👋
+🌟Olá! Eu sou Renan Souza! Bem-vindo ao meu GitHub!👋
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devrenansouza?igsh=MTBnZnlyeXByaXRzZg==)
@@ -7,7 +7,7 @@
 
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRenanSouza&show_icons=true&theme=transparent)
 
-###Tecnologias que estou me aperfeiçoando:
+🌟Tecnologias que estou me aperfeiçoando:
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
