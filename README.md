@@ -1,14 +1,9 @@
-🌟Olá! Eu sou Renan Souza! Bem-vindo ao meu GitHub!👋
+🎓 Engenheiro Civil em transição para Inteligência Artificial e Desenvolvimento de Software.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-carlos-souza-0556871a8/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518997690533?text=)
 
-## 📊 Estatísticas GitHub
-
-![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRenanSouza&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRenanSouza&layout=compact&theme=transparent)
 
 🌟Tecnologias que estou me aperfeiçoando:
 
