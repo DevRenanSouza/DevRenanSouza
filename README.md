@@ -11,9 +11,12 @@
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Phyton](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![APIs](https://img.shields.io/badge/APIs-FF6B00?style=for-the-badge&logo=postman&logoColor=white)
+![IA Generativa](https://img.shields.io/badge/IA_Generativa-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF5722?style=for-the-badge&logo=postman&logoColor=white)
 
 🌐🎮Desenvolvedor júnior apaixonado por tecnologia e jogos. 
